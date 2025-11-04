@@ -1,1 +1,7 @@
 site_name: Mon site MkDocs sur Read the Docs
+nav:
+  - Accueil: index.md
+  - Conférences:
+    - Conférence PyLadiesCon: conferences/pyladiescon.md
+    - Conférence PyConFR: conferences/pyconfr.md
+theme: readthedocs
